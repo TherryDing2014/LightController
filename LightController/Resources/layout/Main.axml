@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minWidth="25px"
+    android:minHeight="25px"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:gridSpec="1|8|#0093eeff|K:#00ff80ff:16,l:72,l:16,r|S:#83ee00ff:16,0,l:16,56,l:16,0,r">
+    <Button
+        android:text="Open"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnLight"
+        android:clickable="true" />
+</LinearLayout>

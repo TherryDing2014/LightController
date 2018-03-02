@@ -1,0 +1,15 @@
+D:\therry\Android\LightController\LightController\bin\Debug\LightController.dll
+D:\therry\Android\LightController\LightController\bin\Debug\LightController.pdb
+D:\therry\Android\LightController\LightController\bin\Debug\LightController.LightController.apk
+D:\therry\Android\LightController\LightController\bin\Debug\LightController.LightController-Signed.apk
+D:\therry\Android\LightController\LightController\obj\Debug\LightController.csprojResolveAssemblyReference.cache
+D:\therry\Android\LightController\LightController\obj\Debug\LightController.dll
+D:\therry\Android\LightController\LightController\obj\Debug\LightController.pdb
+D:\therry\Android\LightController\LightController\obj\Debug\android\bin\LightController.LightController.apk
+D:\therry\Android\LightController\LightController\obj\Debug\res\layout\main.xml
+D:\therry\Android\LightController\LightController\obj\Debug\res\values\strings.xml
+D:\therry\Android\LightController\LightController\obj\Debug\res\drawable\icon.png
+D:\therry\Android\LightController\LightController\obj\Debug\R.cs.flag
+D:\therry\Android\LightController\LightController\obj\Debug\uploadflags.txt
+D:\therry\Android\LightController\LightController\bin\Debug\LightController.dll.mdb
+D:\therry\Android\LightController\LightController\obj\Debug\android\assets\LightController.dll.mdb
